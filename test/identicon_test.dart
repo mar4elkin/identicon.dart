@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:convert';
+import 'package:identicon_dart/identicon.dart';
 import 'package:test/test.dart';
-import 'package:identicon/identicon.dart';
 
 void main() {
   group('Identicon Class', () {
