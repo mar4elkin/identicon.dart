@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'dart:convert';
-import 'package:identicon_dart/identicon.dart';
+import 'package:identicon_dart/identicon_dart.dart';
 import 'package:test/test.dart';
 
 void main() {
