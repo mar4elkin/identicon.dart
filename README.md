@@ -1,6 +1,8 @@
 # Identicon Generator
 A lightweight Dart library for generating GitHub-style identicons from any string input.
 
+<img width="250" height="250" alt="изображение" src="https://github.com/user-attachments/assets/c32c8cd9-2421-4236-b4c0-c5d8af20f9fb" />
+
 ## Features
 - 🎨 Generate unique identicons from strings
 
