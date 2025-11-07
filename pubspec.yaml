@@ -1,0 +1,16 @@
+name: identicon_dart
+description: A lightweight Dart library for generating GitHub-style identicons from any string input.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  path: ^1.9.0
+  crypto: ^3.0.7
+  image: ^4.5.4
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
